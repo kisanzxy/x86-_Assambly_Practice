@@ -1,4 +1,5 @@
-#Author: Xuyang ZHang
+#Author: kisanzxy
+#array addressing, using different register for different data type
 
 	.file	"lab7.s"
 		.data
