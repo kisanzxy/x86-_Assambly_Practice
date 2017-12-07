@@ -1,4 +1,4 @@
-#Author: Xuyang ZHang
+#Author:kisanzxy
 
 	.file	"lab6.s"
 		.data
